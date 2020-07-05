@@ -1,0 +1,6 @@
+run:
+Informe um valor entre 0 e 999: 500
+
+Valor por extenso:
+quinhentos   
+BUILD SUCCESSFUL (total time: 3 seconds)
